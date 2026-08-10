@@ -1,0 +1,9 @@
+{
+  "name": "BingeCard — Anime & Manga Binge Calculator Card",
+  "short_name": "BingeCard",
+  "description": "Calculate and share your anime, manga, and webtoon Binge Stats.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b"
+}
